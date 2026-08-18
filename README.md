@@ -35,4 +35,4 @@ Progress control dashboard for gas infrastructure works — physical vs. financi
 🤖 Applying LLMs to reporting and documentation workflows
 📫 Get in touch
 
-📍 Córdoba, Argentina
+📍 From Argentina to Everywhere
