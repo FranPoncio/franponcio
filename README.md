@@ -4,6 +4,8 @@ I turn operational data into information people can actually decide with.
 For nearly ten years I worked on public gas infrastructure in Córdoba, Argentina — 12,000 km of pipelines and branch lines, 150 pressure reduction stations, 500 industrial connections. My job was the indicators, dashboards and reporting behind it, prepared under IDB / IFC standards.
 Along the way I taught myself to code, mostly at night after work, because the tools I needed either didn't exist or cost more to maintain than the problem they solved.
 
+https://franponcio.github.io/
+
 🛠️ Stack
 
 Data & BI · Power BI · DAX · SQL · ETL · KPI design · Power Query
